@@ -29,7 +29,7 @@ I am Daiana Besterekova, an aspiring Software Engineer from Kazakhstan studying 
 
 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/daiana-besterekova-7871a11a5/)
-* [Gmail](link) or simply daiana@uni.minerva.edu
+* [Gmail]([link](https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Ddaiana%40uni.minerva.edu)) or simply daiana@uni.minerva.edu
 
 🧚‍♀️ My skills include:
 * Python, Flask, JavaScript, R, SQLite, HTML, CSS
